@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278496514585",
+    "project_id": "authmachine-f67f7",
+    "storage_bucket": "authmachine-f67f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278496514585:android:529d33f15a4d1fabf21088",
+        "android_client_info": {
+          "package_name": "com.example.test_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP6dL6AAYYzboq6wCcU-NbJam709yFVig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
